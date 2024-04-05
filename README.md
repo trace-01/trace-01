@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any interesting projects 
 - 📫 How to reach me? Just message me. 
 - 😄 Pronouns: She/Her/Human
-- ⚡ Fun fact: I enjoy data, code, writing in all-lowercase, and mainly <b>learning</b> 
+- ⚡ Fun fact: I enjoy data, code, writing in all-lowercase, and mainly <b>learning</b>.
 
 <!---
 trace-01/trace-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
